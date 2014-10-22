@@ -18,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/RisingStack/your-first-browserify-module/issues"
   },
-  "homepage": "https://github.com/RisingStack/your-first-browserify-module"
+  "homepage": "https://github.com/RisingStack/your-first-browserify-module",
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
+  }
 }
