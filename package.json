@@ -1,0 +1,22 @@
+{
+  "name": "your-first-browserify-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "^3.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RisingStack/your-first-browserify-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RisingStack/your-first-browserify-module/issues"
+  },
+  "homepage": "https://github.com/RisingStack/your-first-browserify-module"
+}
